@@ -1,0 +1,43 @@
+[
+  {
+    "Content": "Item 1",
+    "IsChecked": false,
+    "NoteId": 1
+  },
+  {
+    "Content": "Item 2",
+    "IsChecked": true,
+    "NoteId": 1
+  },
+  {
+    "Content": "Item 3",
+    "IsChecked": false,
+    "NoteId": 2
+  },
+  {
+    "Content": "Item 4",
+    "IsChecked": true,
+    "NoteId": 2
+  },
+  {
+    "Content": "Item 5",
+    "IsChecked": false,
+    "NoteId": 3
+  },
+  {
+    "Content": "Item 6",
+    "IsChecked": true,
+    "NoteId": 3
+  },
+  {
+    "Content": "Item 7",
+    "IsChecked": false,
+    "NoteId": 4
+  },
+  {
+    "Content": "Item 8",
+    "IsChecked": true,
+    "NoteId": 4
+  }
+]
+
